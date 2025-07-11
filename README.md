@@ -1,7 +1,3 @@
-<!-- Banner Image -->
-<img src="https://github.com/SandeepTech06/SandeepTech06/blob/main/GitHubBanner.png?raw=true" alt="Sandeep Kumar Banner" style="width:100%;" />
-
-
 # 👋 About Me
 
 Hi, I'm **Sandeep Kumar** — a tech enthusiast passionate about **cybersecurity**, ethical hacking, and software development.  
